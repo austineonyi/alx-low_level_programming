@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 
 /**
  * _strlen -length of a string
@@ -18,3 +18,4 @@ u++;
 }
 return (u);
 }
+
